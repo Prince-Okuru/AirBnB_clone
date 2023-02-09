@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Okuru Chidozie Prince | Github: [Prince-Okuru](mailto: okuruprince1@gmail.com)
+Okuru Chidozie Prince | Github: [Prince-Okuru](mailto:okuruprince1@gmail.com)
 
-Yusuf Omotoyosi| Github: [Lateef Yusuf](mailto:yusufomotoyosi@gmail.com)
+Yusuf Omotoyosi | Github: [Lateef Yusuf](mailto:yusufomotoyosi@gmail.com)
